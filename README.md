@@ -1,6 +1,6 @@
 # 微信PCHOOK。
  
-![](https://github.com/changtuiqie/WeChat.PcHook/blob/master/pchook.png) <br/>
+![](https://github.com/changtuiqie/WeChat.PcHook.BaoFen/blob/master/demo.png) <br/>
 demo源码使用易语言进行开发，开发环境为易语言5.8<br/>
 
 如果不会易语言的小伙伴可以移步至：
